@@ -1,0 +1,1 @@
+# NextJsFrontEnd-SuicideData
